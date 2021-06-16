@@ -1,5 +1,9 @@
 # marketing-finnet
- 
+ - 👋 Hi, I’m Jayana Citra Agung
+- 👀 I’m interested in Web Dev, and Basketball
+- 🌱 I’m currently learning Telkom University
+- 📫 How to reach me IG:jayana_citra
+
 # Screenshots
 ![1](https://user-images.githubusercontent.com/22091034/119006082-3dfd5400-b9ba-11eb-9d48-3cbf808204ce.png)
 ![2](https://user-images.githubusercontent.com/22091034/119006114-46558f00-b9ba-11eb-8aac-c2cb5a5176b2.png)
